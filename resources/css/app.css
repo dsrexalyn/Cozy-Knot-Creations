@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mix-blend-multiply{
+    mix-blend-mode: multiply;
+}
+
+.width-360 {
+    width: 360px;
+    padding: 10px;
+}
+
+.card{
+
+
+
+}
